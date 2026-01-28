@@ -4,13 +4,15 @@ This repository is the issue tracker for [RankRecon](https://www.missionsystems.
 
 **This repository does not contain source code.** It exists solely for reporting bugs, requesting features, and tracking known issues.
 
-## Links
+## Installation
+- [Chrome Web Store](https://chromewebstore.google.com/detail/rankrecon/YOUR_EXTENSION_ID)
+- [Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/rankrecon/)
+
+## Documentation
 
 - [RankRecon Website](https://www.missionsystems.co.uk/rankrecon/)
 - [Documentation](https://www.missionsystems.co.uk/rankrecon/docs/)
 - [Privacy Policy](https://www.missionsystems.co.uk/rankrecon/privacy/)
-- [Chrome Web Store](https://chromewebstore.google.com/detail/rankrecon/YOUR_EXTENSION_ID)
-- [Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/rankrecon/)
 
 ## Reporting an Issue
 
@@ -40,7 +42,6 @@ For feature requests, describe the use case — what are you trying to accomplis
 
 - General SEO questions
 - Issues with websites you're analysing (bot protection, page errors, etc.)
-- Support for other Mission Systems products
 
 ## License
 

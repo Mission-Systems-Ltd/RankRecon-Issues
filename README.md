@@ -5,8 +5,8 @@ This repository is the issue tracker for [RankRecon](https://www.missionsystems.
 **This repository does not contain source code.** It exists solely for reporting bugs, requesting features, and tracking known issues.
 
 ## Installation
-- [Chrome Web Store](https://chromewebstore.google.com/detail/rankrecon/YOUR_EXTENSION_ID)
-- [Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/rankrecon/)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/rankrecon/chfndljngecdigdblnfbajjbfmfcdbde)
+- [Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/rankrecon-serp-analysis-tool/)
 
 ## Documentation
 
@@ -19,7 +19,7 @@ This repository is the issue tracker for [RankRecon](https://www.missionsystems.
 Before opening an issue:
 
 1. Check the [documentation](https://www.missionsystems.co.uk/rankrecon/docs/) — your question may already be answered
-2. Search [existing issues](https://github.com/MissionSystems/rankrecon-issues/issues) to avoid duplicates
+2. Search [existing issues](https://github.com/Mission-Systems-Ltd/RankRecon-Issues/issues) to avoid duplicates
 
 When reporting a bug, include:
 
